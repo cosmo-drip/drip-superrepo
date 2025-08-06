@@ -4,3 +4,6 @@
 [submodule "drip-docs"]
 	path = drip-docs
 	url = https://github.com/cosmo-drip/drip-docs.git
+[submodule "drip-frontend"]
+	path = drip-frontend
+	url = https://github.com/cosmo-drip/drip-frontend.git
