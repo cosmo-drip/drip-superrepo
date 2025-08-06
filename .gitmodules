@@ -1,3 +1,6 @@
 [submodule "drip-contracts"]
 	path = drip-contracts
 	url = https://github.com/cosmo-drip/drip-contracts.git
+[submodule "drip-docs"]
+	path = drip-docs
+	url = https://github.com/cosmo-drip/drip-docs.git
